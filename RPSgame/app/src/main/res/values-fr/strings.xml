@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jeuPCC</string>
+    <string name="ROCK">Caillou</string>
+    <string name="SCISSORS">CISEAUX</string>
+    <string name="PAPER">PAPIER</string>
+    <string name="LOSE">PERDU !</string>
+    <string name="WIN">GAGNÉ !</string>
+    <string name="DRAW">ÉGALITÉ !</string>
+
+</resources>

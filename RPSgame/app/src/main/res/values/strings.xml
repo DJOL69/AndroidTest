@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RPSgame</string>
+    <string name="ROCK">Rock</string>
+    <string name="SCISSORS">SCISSORS</string>
+    <string name="PAPER">PAPER</string>
+    <string name="LOSE">LOSE !</string>
+    <string name="WIN">WIN !</string>
+    <string name="DRAW">DRAW !</string>
+
+</resources>
